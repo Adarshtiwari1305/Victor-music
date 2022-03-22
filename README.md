@@ -1,7 +1,7 @@
-<h2 align="centre">KIGO Music Player</h2>
+<h2 align="centre">Victor Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/4c0f3f6c07b82eda1cee0.jpg">
+  <img src="https://telegra.ph/file/169a05691d278557e26ba.png">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -39,16 +39,16 @@
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/KIGO-OMFO/RaiChu-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Adarshtiwari1305/Victor-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 # Credits ✨
 - callmusic 
 - PyTgCalls
 
 #### Special Credits
-- [Subhanahu](https://t.me/Shubhanshutya)
-- [Sammy](https://t.me/OpFriDay)
-- [Abhi](https://t.me/VEXERA_MUSICS)
+
+
+
 
 ### Support & Updates 🇮🇳
-<a href="https://t.me/OmFoXD"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/kigo_omfo"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Hitler_fed"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Adarshtiwari1305"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
